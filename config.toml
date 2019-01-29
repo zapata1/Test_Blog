@@ -1,3 +1,4 @@
 baseURL = "http://example.org/"
+publishDir = "docs"
 languageCode = "en-us"
-title = "El siti"
+title = "Bonjour"
